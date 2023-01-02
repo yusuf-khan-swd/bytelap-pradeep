@@ -11,7 +11,12 @@ function App() {
         </div>
       </div>
       <div className="m-2">
-
+        <ul className="menu flex-row border-t-4 border-b-4">
+          <li><a>Dropdown</a></li>
+          <li><a>Filter 2</a></li>
+          <li><a>Filter 3</a></li>
+          <li><a>Filter 4</a></li>
+        </ul>
       </div>
       <div className="m-2 mt-8">
         <div className="h-[180px] bg-[#D9D9D9] flex justify-center items-center mb-8 p-2">One</div>
