@@ -7,7 +7,7 @@ function App() {
       <NavBar></NavBar>
       <div className="m-2">
         <div className="form-control max-w-md mx-auto">
-          <input type="text" placeholder="Search" className="input input-bordered" />
+          <input id="search" type="text" placeholder="Search" className="input input-bordered" />
         </div>
       </div>
       <div className="m-2">
